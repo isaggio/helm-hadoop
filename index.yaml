@@ -10,7 +10,7 @@ entries:
     icon: http://hadoop.apache.org/images/hadoop-logo.jpg
     maintainers:
     - email: h.chintala@isaggio.com
-      name: Hari Chintala
+      name: HC
     name: hdfs
     sources:
     - https://github.com/apache/hadoop
