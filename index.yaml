@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  hdfs:
+  - apiVersion: v1
+    appVersion: 2.7.3
+    created: 2019-08-01T14:05:51.917935+01:00
+    description: HDFS is the primary distributed storage used by Hadoop applications.
+    digest: 38d91a37d22690ca6eef3500f431d631f23d444f166a515dd4f934097096fe6a
+    home: https://hadoop.apache.org/
+    icon: http://hadoop.apache.org/images/hadoop-logo.jpg
+    maintainers:
+    - email: h.chintala@isaggio.com
+      name: Hari Chintala
+    name: hdfs
+    sources:
+    - https://github.com/apache/hadoop
+    urls:
+    - https://github.com/isaggio/helm-hadoop/hdfs-1.0.0.tgz
+    version: 1.0.0
+generated: 2019-08-01T14:05:51.915089+01:00
